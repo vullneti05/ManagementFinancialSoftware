@@ -1,0 +1,403 @@
+@media (max-width:1024px) {
+  #sidebar-wrapper .custom-arrow {
+    display: none;
+  }
+
+  #startimi-arkes .col-lg-8 {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: -100px;
+    margin-right: 50px;
+  }
+
+  #startimi-arkes .col-lg-8 .card {
+    width: 50rem
+  }
+
+  #page-content-wrapper .navbar .card img {
+    display: block;
+  }
+
+  .home-sidebar {
+    color: #000 !important;
+    display: block;
+    margin-left: 140px;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .table {
+    width: 50rem !important;
+  }
+
+  #sidebar-wrapper {
+    margin-left: -15px !important;
+    margin-right: -150px;
+    border: none !important;
+    background-color: transparent !important;
+    transition: .6s;
+    width: 20.5rem;
+  }
+
+  #sidebar-wrapper .sidebar-heading {
+    display: flex;
+  }
+
+  #sidebar-wrapper .sidebar-heading span {
+    display: flex;
+  }
+
+  #sidebar-wrapper .sidebar-heading p {
+    display: none !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar {
+    margin-left: -120px !important;
+    margin-top: 130px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a {
+    width: 100% !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a img {
+    margin-left: 160px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a .icon-home-tog {
+    margin-left: 165px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a span {
+    display: none !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a .circle {
+    margin-right: 70px !important;
+    margin-top: -12px !important;
+  }
+
+  #page-content-wrapper .navbar img {
+    display: none;
+  }
+
+  #dashboard .input-total-dashboard {
+    padding-right: 0px;
+  }
+
+  #furnizimi .col-lg-2 .is {
+    display: none;
+  }
+
+  #furnizimi .col-lg-2 .custom-printo {
+    margin-top: 0px;
+    margin-left: -5px;
+    padding-right: 10px;
+  }
+
+  #furnizimi .col-lg-2 .custom-printo img {
+    margin-left: 0px !important;
+    margin-top: -5px;
+  }
+
+  #furnizimi .col-lg-2 .custom-printo p {
+    margin-top: -2px;
+  }
+
+  #arka .container-fluid .card .card-body .col-lg-6 .card {
+    margin-left: -10px !important;
+    margin-right: -8px;
+  }
+
+  #arka .container-fluid .card .card-body .col-lg-6 .f-g {
+    margin-right: -100px;
+  }
+
+  #stoku .custom-printo {
+    padding-right: 0px;
+    right: 5px;
+    width: 90%;
+  }
+
+  #fletore .custom-card .custom-table-scroll1 {
+    height: 50vh;
+  }
+
+  #administrata .container-fluid .row .col-lg-1 .form-group a {
+    margin-left: -27px;
+  }
+
+  #regjistrimi-biznesit .container-fluid .row .col-lg-1 .form-group a {
+    display: none;
+  }
+
+  #statistikat .container-fluid .row .col-lg-2 a {
+    padding-left: 0px;
+  }
+
+}
+
+@media {
+  #slider-container {
+    min-height: 76vh !important;
+  }
+
+  #header-front .container-fluid .row .col-md-4 .card {
+    margin-right: -80px;
+    height: 70vh;
+  }
+
+  #header-front .card .custom-card .carousel-indicators .active {
+    margin-bottom: -5px;
+  }
+
+  #header-front .card .custom-card .carousel-inner .carousel-item .custom-text-header .custom-p-margin {
+    margin-bottom: 60px;
+  }
+
+  #header-front .container-fluid .row .col-md-4 .sidebar-heading .logo-custom {
+    margin-left: 150px;
+  }
+
+  #header-front .card .custom-card .carousel-indicators li {
+    margin-right: -3px;
+  }
+
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -14rem;
+    border: none !important;
+    background-color: transparent !important;
+    transition: .6s;
+  }
+
+}
+
+@media (min-width:768px) and (max-width:990px) {
+  #sidebar-wrapper .custom-arrow {
+    display: none;
+  }
+
+  .table {
+    width: 50rem !important;
+  }
+
+  .home-sidebar {
+    color: #000 !important;
+    display: block;
+    margin-left: 140px;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  #dashboard .container-fluid {
+    padding: 15px;
+    margin-left: 0px;
+  }
+
+  #furnizimi .col-lg-2 a {
+    margin-top: -125rem !important;
+  }
+
+  #furnizimi .col-md-12 {
+    margin-top: 75px;
+  }
+
+  #furnizimi .col-lg-12 .card .card-body .form-group .custom-search {
+    width: 40% !important;
+  }
+
+  #furnizimi .col-lg-2 a {
+    height: 90px;
+    padding-top: 15px;
+    margin-left: 20px;
+    width: 100%;
+  }
+
+  #furnizimi .col-lg-2 .custom-printo {
+    margin-top: 0rem !important;
+    padding-right: 20px !important;
+  }
+
+  #furnizimi .col-lg-2 .is {
+    display: none;
+  }
+
+  #furnizimi .col-lg-2 .cus-res-btn {
+    margin-left: auto;
+    margin-top: -50px;
+  }
+
+  #fletore .custom-card .custom-table-scroll1 {
+    overflow-x: auto;
+    overflow-y: auto;
+    height: 40vh;
+  }
+
+  #stoku .col-lg-2 {
+    margin-top: -40px;
+    margin-left: 0px;
+  }
+
+  #stoku .custom-printo {
+    width: 22% !important;
+    right: 20px !important;
+    top: 50px !important;
+  }
+
+  #statistikat .container-fluid .row .col-lg-2 a {
+    width: 30% !important;
+    float: right;
+    margin-top: 0px;
+  }
+
+  #arka .cus-res-kalkulo {
+    margin-top: 40rem;
+    z-index: 99;
+  }
+
+  #arka .cus-res {
+    margin-top: -85rem !important;
+  }
+
+  #page-content-wrapper .navbar .dropdown-menu {
+    margin-left: -140px;
+    margin-top: 35px;
+    margin-right: -20px;
+  }
+
+  #fletore .container-fluid nav .custom-btn-post {
+    width: 100%;
+    height: 120px;
+  }
+
+  #fletore .container-fluid nav .custom-btn-borgj {
+    width: 100%;
+    height: 120px;
+  }
+
+  #fletore .container-fluid nav .custom-btn-cash {
+    width: 100%;
+    height: 120px;
+  }
+
+  #header-front .card .card-body .sidebar-heading {
+    margin-left: -60px;
+  }
+
+  #header-front .card .card-body .sidebar-heading p {
+    margin-right: -60px;
+  }
+
+  #sidebar-wrapper {
+    margin-left: -15px !important;
+    margin-right: -150px;
+    border: none !important;
+  }
+
+  #sidebar-wrapper .sidebar-heading {
+    display: flex;
+  }
+
+  #sidebar-wrapper .sidebar-heading span {
+    display: flex;
+  }
+
+  #sidebar-wrapper .sidebar-heading p {
+    display: none !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar {
+    margin-left: -120px !important;
+    margin-top: 130px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a {
+    width: 100% !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a img {
+    margin-left: 160px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a .icon-home-tog {
+    margin-left: 165px !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a span {
+    display: none !important;
+  }
+
+  #sidebar-wrapper .custom-siderbar a .circle {
+    margin-right: 70px !important;
+    margin-top: -12px !important;
+  }
+
+  #page-content-wrapper .navbar img {
+    display: none;
+  }
+
+  #dashboard .input-total-dashboard {
+    text-align: center;
+  }
+
+  #arka .container-fluid .card .card-body .col-lg-6 .f-g {
+    margin-right: 0px;
+  }
+
+  #furnizimi .col-lg-2 .cus-res-btn {
+    margin-top: -45px;
+  }
+
+  #administrata .container-fluid .row .col-lg-1 .form-group a {
+    width: 100%;
+    margin-left: -15px;
+    text-align: center;
+    margin-top: -63rem;
+  }
+
+  #administrata .container-fluid .biznesi-ri-res {
+    margin-top: 8rem !important;
+  }
+
+  #shfrytezuesit .table td img {
+    width: 70%;
+  }
+
+  #page-content-wrapper .navbar .dropdown-toggle-split {
+    margin-top: 7px;
+  }
+
+  #page-content-wrapper .navbar .dropdown-toggle-split .i-res {
+    margin-bottom: 110px;
+  }
+
+}
+
+@media (max-width:400px) {
+  #header-front .container-fluid .row .col-md-4 .card {
+    margin-right: -70px;
+    height: 70vh;
+    margin-left: 70px;
+  }
+
+  #header-front .container-fluid .row .col-md-4 .custom-card-login {
+    margin-left: -50px;
+  }
+
+  #header-front .card .custom-card .carousel-indicators li {
+    margin-right: 0px;
+  }
+
+  #header-front .card .custom-card .carousel-indicators li.active {
+  }
+
+}
